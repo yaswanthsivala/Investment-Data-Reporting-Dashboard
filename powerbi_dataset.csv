@@ -1,0 +1,21 @@
+portfolio_id,client_id,asset_class,market_value,trade_type,trade_amount,compliance_result,compliance_status_standardized,value_category,has_recent_trade
+P001,C001,Equities,2500000.0,Buy,150000.0,Pass,Compliant,Medium (-2.5M),True
+P002,C002,Bonds,1800000.0,Sell,75000.0,Pass,Compliant,Medium (-2.5M),True
+P003,C003,Real Estate,3200000.0,Buy,200000.0,Pass,Compliant,Large (.5-5M),True
+P004,C001,Private Equity,1500000.0,Sell,125000.0,Pass,Compliant,Medium (-2.5M),True
+P005,C004,Equities,4200000.0,Buy,300000.0,Pass,Compliant,Large (.5-5M),True
+P006,C005,Bonds,950000.0,Sell,50000.0,Fail,Non-Compliant,Small (<),True
+P007,C002,Hedge Funds,2800000.0,Buy,180000.0,Pass,Compliant,Large (.5-5M),True
+P008,C006,Equities,1750000.0,Sell,90000.0,Pass,Compliant,Medium (-2.5M),True
+P009,C007,Real Estate,4100000.0,Buy,250000.0,Pass,Compliant,Large (.5-5M),True
+P010,C003,Cash,150000.0,Sell,25000.0,Pass,Compliant,Small (<),True
+P011,C008,Equities,3100000.0,Buy,175000.0,Pass,Compliant,Large (.5-5M),True
+P012,C009,Bonds,2200000.0,Sell,100000.0,Pass,Compliant,Medium (-2.5M),True
+P013,C010,Private Equity,3800000.0,Buy,220000.0,Pass,Compliant,Large (.5-5M),True
+P014,C004,Hedge Funds,1950000.0,Sell,80000.0,Pass,Compliant,Medium (-2.5M),True
+P015,C011,Equities,2750000.0,Buy,140000.0,Pass,Compliant,Large (.5-5M),True
+P016,C012,Real Estate,3600000.0,Sell,160000.0,Pass,Compliant,Large (.5-5M),True
+P017,C005,Cash,200000.0,Buy,30000.0,Pass,Compliant,Small (<),True
+P018,C013,Bonds,1650000.0,Sell,60000.0,Pass,Compliant,Medium (-2.5M),True
+P019,C006,Equities,2900000.0,Buy,195000.0,Pass,Compliant,Large (.5-5M),True
+P020,C014,Private Equity,2400000.0,Sell,110000.0,Pass,Compliant,Medium (-2.5M),True
