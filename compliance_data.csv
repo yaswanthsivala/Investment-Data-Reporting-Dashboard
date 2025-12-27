@@ -1,0 +1,21 @@
+compliance_id,portfolio_id,rule_type,check_date,result,notes
+C001,P001,KYC,2023-12-15,Pass,All documents verified and up to date
+C002,P002,AML,2023-12-15,Pass,No suspicious activity detected
+C003,P003,Regulatory Limits,2023-12-15,Pass,Within all concentration limits
+C004,P004,KYC,2023-12-15,Pass,Enhanced due diligence completed
+C005,P005,AML,2023-12-15,Pass,Clean transaction history
+C006,P006,Regulatory Limits,2023-12-15,Fail,Exceeded 5% single issuer limit
+C007,P007,KYC,2023-12-15,Pass,PEP screening completed
+C008,P008,AML,2023-12-15,Pass,Automated monitoring active
+C009,P009,Regulatory Limits,2023-12-15,Pass,All limits within thresholds
+C010,P010,KYC,2023-12-15,Pass,Corporate documentation verified
+C011,P011,AML,2023-12-15,Pass,No red flags identified
+C012,P012,Regulatory Limits,2023-12-15,Pass,Portfolio diversification maintained
+C013,P013,KYC,2023-12-15,Pass,Private equity compliance met
+C014,P014,AML,2023-12-15,Pass,Hedge fund monitoring active
+C015,P015,Regulatory Limits,2023-12-15,Pass,Equity exposure within limits
+C016,P016,KYC,2023-12-15,Pass,Real estate documentation complete
+C017,P017,AML,2023-12-15,Pass,Cash management compliant
+C018,P018,Regulatory Limits,2023-12-15,Pass,Bond portfolio diversified
+C019,P019,KYC,2023-12-15,Pass,Client verification completed
+C020,P020,AML,2023-12-15,Pass,Private equity screening passed
