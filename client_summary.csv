@@ -1,0 +1,6 @@
+Client ID,Portfolio ID,Asset Class,Market Value,Compliance Status,Last Trade Date,Trade Activity
+C001,P001,Equities,1000000,Compliant,2023-12-04,2 trades
+C001,P003,Real Estate,500000,Non-Compliant,2023-12-01,1 trade
+C002,P002,Bonds,750000,Compliant,2023-12-03,1 trade
+C002,P005,Cash,100000,Compliant,N/A,0 trades
+C003,P004,Equities,2500000,Compliant,2023-12-02,1 trade
